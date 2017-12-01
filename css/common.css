@@ -9,11 +9,12 @@ dl, dt, dd, ul, li, form, table, tr, th, td {
 }
 body {
 	font-size: 100%;
-	color: #555555;
+	color: pink;
 }
 #container {
 	width: 980px;
 	margin: 0px auto;
+	background-color:lightgray;
 }
 #header h1 , #header p{
 	margin: 10px 0px 10px 5px;
